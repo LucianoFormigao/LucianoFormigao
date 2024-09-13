@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Eu sou o Luciano Formigão 👋
 
 ## 💻 Tecnologias e ferramentas
 <div align="left">
