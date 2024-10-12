@@ -1,4 +1,14 @@
-## Olá! Eu sou o Luciano Formigão 👋
+![271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7](https://github.com/user-attachments/assets/e9a4b6ef-d762-432a-a058-3b1a4acec490)
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<br>
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=8A20A1&center=true&width=1000&lines=Hello%2C+My+name+is+Luciano;Welcome+to+my+profile!)](https://git.io/typing-svg)
+<br>
+
 
 ## 💻 Tecnologias e ferramentas
 <div align="left">
@@ -24,8 +34,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
-<br>
-<br>
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Luciano-Formigao-Lopes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
