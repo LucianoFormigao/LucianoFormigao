@@ -1,17 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=8A20A1&center=true&width=1000&lines=Hello%2C+My+name+is+Luciano;Welcome+to+my+profile!)](https://git.io/typing-svg)
 <br>
+![header-gif](https://github.com/user-attachments/assets/69fe5982-937a-46be-8977-3bf905fe678f)
 
-
-<br>
-<br>
-
-
-#
+<br><br>
 
 <p align="center">Estudante de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia de Jahu.
 Atualmente, desenvolvo projetos acadêmicos e pessoais para aplicar na prática o que aprendo e evoluir minhas habilidades. Estou sempre aberto a colaborar em projetos open-source e adquirir novas experiências no mercado.
-  
-#
 
 
 #
@@ -54,13 +48,7 @@ Atualmente, desenvolvo projetos acadêmicos e pessoais para aplicar na prática 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luciano-Formigao-lopes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
-
-<!-- Portfolio -->
-## Portfolio:
-- a
-- a
-
+#
 
 
 <!--
